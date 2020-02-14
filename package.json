@@ -47,7 +47,7 @@
     "docsearch.js": "^2.5.2",
     "jquery": "^3.4.0",
     "marked": "^0.4.0",
-    "popper.js": "^1.14.3",
+    "popper.js": "^1.16.1",
     "prop-types": "^15.6.1",
     "qs": "^6.5.2",
     "react": "^16.4.0",
