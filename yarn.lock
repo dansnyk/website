@@ -4181,9 +4181,10 @@ unescape-html@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/unescape-html/-/unescape-html-1.1.0.tgz#d24705e82f0c9e62a87ada62f3cd96303d7d2a3c"
 
-unfetch@^3.0.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/unfetch/-/unfetch-3.1.0.tgz#d622b23a49e6fa93a5a6e99e18e073a83b78d3a8"
+unfetch@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/unfetch/-/unfetch-4.1.0.tgz#6ec2dd0de887e58a4dee83a050ded80ffc4137db"
+  integrity sha512-crP/n3eAPUJxZXM9T80/yv0YhkTEx2K1D3h7D1AJM6fzsWZrxdyRuLN0JH/dkZh1LNH8LxCnBzoPFCPbb2iGpg==
 
 union-value@^1.0.0:
   version "1.0.0"
