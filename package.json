@@ -55,7 +55,7 @@
     "react-instantsearch-dom": "^5.2.0-beta.2",
     "react-transition-group": "^1.2.1",
     "unescape-html": "^1.0.0",
-    "unfetch": "^3.0.0",
+    "unfetch": "^4.1.0",
     "xss": "^1.0.3"
   },
   "resolutions": {
